@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution page](https://github.com/SinghFatehbir/Results-Summary-Component)
+- Live Site URL: [GitHub live](https://singhfatehbir.github.io/Results-Summary-Component/)
 
 ### Built with
 
